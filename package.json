@@ -20,7 +20,7 @@
   "dependencies": {
     "@slack/client": "^3.8.1",
     "commander": "^2.9.0",
-    "js-combinatorics": "^0.5.2",
+    "js-combinatorics": "^0.6.1",
     "random-js": "^1.0.8"
   }
 }
